@@ -1,0 +1,28 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}                                                                                                    
+.container{
+    background-color: rgb(219, 174, 208);
+    color:rgb(0, 0, 0);
+    margin: 30px;
+    padding: 30px;
+    line-height: 35px;  
+}
+
+.container1{
+    margin-top: 10px;
+}
+
+.main_container{
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.sub_container1{
+    padding: 15px;
+    background-color: rgb(31, 6, 54);
+    border-radius: 10px;
+}
